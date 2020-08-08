@@ -1,7 +1,9 @@
 # Comp313-Assignment1-Mario
 
 Couse Code: COMP313
+
 Name: Pragya Pradhan
+
 Assignment 1
 
 Game: Special Mario
